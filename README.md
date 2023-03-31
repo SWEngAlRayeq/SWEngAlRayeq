@@ -1,4 +1,3 @@
-![logo](https://user-images.githubusercontent.com/33086068/229081967-22e4871a-0a34-450e-baad-75bc94afe935.jpg)
 
 <h1 align="center">Hi 👋, I'm Omar Alaa</h1>
 
