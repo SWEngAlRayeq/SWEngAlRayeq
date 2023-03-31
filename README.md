@@ -1,5 +1,6 @@
+![logo](https://user-images.githubusercontent.com/33086068/229080587-290bf938-a5c4-46a1-8cce-6ec840db2c65.jpg)
+
 <h1 align="center">Hi 👋, I'm Omar Alaa</h1>
-![963864](https://user-images.githubusercontent.com/33086068/229080397-b4257ad5-ad15-44cb-817b-e75c34053534.jpg)
 
 <h3 align="center">Senior Software Engineer | Android & POS @ Al Ahly Momkn for E-payments (+5 years)</h3>
 <img align="right" alt="coding" width="1000" src="https://www.lambdatest.com/resources/images/news24.gif">
