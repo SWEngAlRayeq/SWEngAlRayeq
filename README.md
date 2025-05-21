@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Omar Alaa</h1>
 
-<h3 align="center">𝗦𝗲𝗻𝗶𝗼𝗿 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 | 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 & 𝗣𝗢𝗦 𝗘𝘅𝗽𝗲𝗿𝘁 @ 𝗘𝗹-𝗦𝗲𝘄𝗲𝗱𝘆 𝗘𝗹𝗲𝗰𝘁𝗿𝗼𝗺𝗲𝘁𝗲𝗿 𝗚𝗿𝗼𝘂𝗽 ( 𝟳 𝘆𝗲𝗮𝗿𝘀 )</h3>
+<h3 align="center">𝗦𝗲𝗻𝗶𝗼𝗿 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 | 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 & 𝗣𝗢𝗦 𝗘𝘅𝗽𝗲𝗿𝘁 ( 𝟳 𝘆𝗲𝗮𝗿𝘀 )</h3>
 <img align="right" alt="coding" width="1000" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar20alaa&label=Profile%20views&color=0e75b6&style=flat" alt="omar20alaa" /> </p>
