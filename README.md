@@ -8,4 +8,4 @@
 
 ---
 
-Free to use, learn from, and share.
+Feel Free to use, learn from, and share.
