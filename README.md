@@ -7,8 +7,8 @@
 
 <p align="center">
   <em>
-**Building apps that power 90,000+ merchants.**  
-**Specializing in fintech, utilities, e-commerce, and high-performance Android systems.**
+    Building apps that power 90,000+ merchants.
+Specializing in fintech, utilities, e-commerce, and high-performance Android systems.
   </em>
 </p>
 
