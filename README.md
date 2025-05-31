@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/@SWEngAlRayeq">
+  <a href="https://github.com/SWEngAlRayeq">
     <img src="https://img.shields.io/github/followers/your-username?label=Follow&style=for-the-badge" />
   </a>
   <a href="https://your-website.com/resume.pdf">
