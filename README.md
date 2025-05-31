@@ -72,9 +72,6 @@
   <a href="https://www.youtube.com/watch?v=6kjz9tGwY8I" target="_blank">
     <img src="https://img.youtube.com/vi/6kjz9tGwY8I/mqdefault.jpg" width="280" alt="ViewModel Jetpack" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://www.youtube.com/watch?v=4oQsQk24zf4" target="_blank">
     <img src="https://img.youtube.com/vi/4oQsQk24zf4/mqdefault.jpg" width="280" alt="RecyclerView Animation" />
   </a>
