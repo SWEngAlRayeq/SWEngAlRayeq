@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="180" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Hi" />
-</p>
-
 <h1 align="center">Welcome to SW Eng ع الرايق 👋</h1>
 <h3 align="center">Senior Software Engineer | Android & POS Expert (8 years)</h3>
 
@@ -16,7 +12,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/@sw_eng" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-SW Eng ع الرايق-red?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
@@ -27,7 +23,7 @@
   <a href="https://your-website.com/resume.pdf">
     <img src="https://img.shields.io/badge/Download%20Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=your-username.readme&style=for-the-badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=@SWEngAlRayeq.readme&style=for-the-badge" />
 </p>
 
 ---
