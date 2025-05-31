@@ -76,25 +76,25 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=4oQsQk24zf4" target="_blank">
-    <img src="https://img.youtube.com/vi/4oQsQk24zf4/mqdefault.jpg" width="280" alt="RecyclerView Animation" />
+    <img src="https://img.youtube.com/vi/4oQsQk24zf4/mqdefault.jpg" width="250" alt="RecyclerView Animation" />
   </a>
   <a href="https://www.youtube.com/watch?v=I44g1af1frM" target="_blank">
-    <img src="https://img.youtube.com/vi/I44g1af1frM/mqdefault.jpg" width="280" alt="Secure Card Integration" />
+    <img src="https://img.youtube.com/vi/I44g1af1frM/mqdefault.jpg" width="250" alt="Secure Card Integration" />
   </a>
   <a href="https://www.youtube.com/watch?v=m_fmZPM0PmQ" target="_blank">
-    <img src="https://img.youtube.com/vi/m_fmZPM0PmQ/mqdefault.jpg" width="280" alt="New Video Replacement" />
+    <img src="https://img.youtube.com/vi/m_fmZPM0PmQ/mqdefault.jpg" width="250" alt="New Video Replacement" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=HrsrYm2jMm0" target="_blank">
-    <img src="https://img.youtube.com/vi/HrsrYm2jMm0/mqdefault.jpg" width="280" alt="Video Title 2" />
+    <img src="https://img.youtube.com/vi/HrsrYm2jMm0/mqdefault.jpg" width="250" alt="Video Title 2" />
   </a>
   <a href="https://www.youtube.com/watch?v=tmrHrZZgQ2U" target="_blank">
-    <img src="https://img.youtube.com/vi/tmrHrZZgQ2U/mqdefault.jpg" width="280" alt="Video Title 3" />
+    <img src="https://img.youtube.com/vi/tmrHrZZgQ2U/mqdefault.jpg" width="250" alt="Video Title 3" />
   </a>
   <a href="https://www.youtube.com/watch?v=EBsP7Yx5hUg" target="_blank">
-    <img src="https://img.youtube.com/vi/EBsP7Yx5hUg/mqdefault.jpg" width="280" alt="New Added Video" />
+    <img src="https://img.youtube.com/vi/EBsP7Yx5hUg/mqdefault.jpg" width="250" alt="New Added Video" />
   </a>
 </p>
 ---
