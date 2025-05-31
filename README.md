@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to SW Eng ع الرايق 👋</h1>
 <p align="center">
-  <img src="https://i.imgur.com/pC76H4g.png" alt="Channel Logo" width="500"  />
+  <img src="https://i.imgur.com/pC76H4g.png" alt="Channel Logo" width="800"  />
 </p>
 
 <h3 align="center">Senior Software Engineer | Android & POS Expert (8 years)</h3>
