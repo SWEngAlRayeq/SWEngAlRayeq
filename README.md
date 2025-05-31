@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/SWEngAlRayeq">
-    <img src="https://img.shields.io/github/followers/your-username?label=Follow&style=for-the-badge" />
+    <img src="https://img.shields.io/github/followers/@SWEngAlRayeq?label=Follow&style=for-the-badge" />
   </a>
   <a href="https://your-website.com/resume.pdf">
     <img src="https://img.shields.io/badge/Download%20Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
