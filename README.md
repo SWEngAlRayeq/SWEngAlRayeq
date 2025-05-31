@@ -12,12 +12,12 @@
 
 <p align="center">
   <a href="https://www.youtube.com/@sw_eng" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-SW Eng ع الرايق-red?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-SUBSCRIBE-red?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/@SWEngAlRayeq">
     <img src="https://img.shields.io/github/followers/your-username?label=Follow&style=for-the-badge" />
   </a>
   <a href="https://your-website.com/resume.pdf">
@@ -74,18 +74,9 @@
 ##  Featured YouTube Videos
 
 <p align="center">
-  <a href="https://www.youtube.com/@YourChannelName" target="_blank">
+  <a href="https://www.youtube.com/@sw_eng" target="_blank">
     <img src="https://i.imgur.com/Rb8UuJk.png" alt="YouTube Banner" width="600"/>
   </a>
-</p>
-
----
-
-##  GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
