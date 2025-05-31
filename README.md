@@ -62,13 +62,27 @@
 ---
 
 ## Featured YouTube Videos
-
 <p align="center">
   <a href="https://www.youtube.com/watch?v=nzOsJzD3svQ" target="_blank">
     <img src="https://img.youtube.com/vi/nzOsJzD3svQ/mqdefault.jpg" width="280" alt="Jetpack Compose Video" />
   </a>
   <a href="https://www.youtube.com/watch?v=cflNZi4amLw" target="_blank">
-    <img src="https://img.youtube.com/vi/cflNZi4amLw/mqdefault.jpg" width="280" alt="POS Device Integration" />
+    <img src="https://img.youtube.com/vi/cflNZi4amLw/mqdefault.jpg" width="280" alt="POS Integration" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=6kjz9tGwY8I" target="_blank">
+    <img src="https://img.youtube.com/vi/6kjz9tGwY8I/mqdefault.jpg" width="280" alt="ViewModel Jetpack" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=4oQsQk24zf4" target="_blank">
+    <img src="https://img.youtube.com/vi/4oQsQk24zf4/mqdefault.jpg" width="280" alt="RecyclerView Animation" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=I44g1af1frM" target="_blank">
+    <img src="https://img.youtube.com/vi/I44g1af1frM/mqdefault.jpg" width="280" alt="Secure Card Integration" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=0Ns9ADzLhKc" target="_blank">
+    <img src="https://img.youtube.com/vi/0Ns9ADzLhKc/mqdefault.jpg" width="280" alt="Compose & CardView" />
   </a>
 </p>
 
@@ -76,16 +90,16 @@
 
 ## Explore Playlists
 
-- **Jetpack Compose Basics**  
+- **Utilities (Electricity - Water - Gas) - بالعربي**  
   [▶️ Watch Now](https://www.youtube.com/playlist?list=PLExON8teahsPpThvcP6rYEPbZvdsy5pTm)
 
-- **POS System Integration**  
+- **FinTech - بالعربي**  
   [▶️ Watch Now](https://www.youtube.com/playlist?list=PLExON8teahsMhVk5JWPDKxCWVN0W9tn2P)
 
-- **Android Security & EMV Standards**  
+- **OOP - بالعربي**  
   [▶️ Watch Now](https://www.youtube.com/playlist?list=PLExON8teahsNrl2hPdM2VjIwUrpdvPOMc)
 
-- **Utilities & Card Reader Apps**  
+- **Most Common Used Design Patterns - بالعربي**  
   [▶️ Watch Now](https://www.youtube.com/playlist?list=PLExON8teahsNAjyygQtiTP0p1RB5b1Dcp)
 
 ---
