@@ -64,13 +64,13 @@
 ## Featured YouTube Videos
 <p align="center">
   <a href="https://www.youtube.com/watch?v=nzOsJzD3svQ" target="_blank">
-    <img src="https://img.youtube.com/vi/nzOsJzD3svQ/mqdefault.jpg" width="280" alt="Jetpack Compose Video" />
+    <img src="https://img.youtube.com/vi/nzOsJzD3svQ/mqdefault.jpg" width="250" alt="Jetpack Compose Video" />
   </a>
   <a href="https://www.youtube.com/watch?v=cflNZi4amLw" target="_blank">
-    <img src="https://img.youtube.com/vi/cflNZi4amLw/mqdefault.jpg" width="280" alt="POS Integration" />
+    <img src="https://img.youtube.com/vi/cflNZi4amLw/mqdefault.jpg" width="250" alt="POS Integration" />
   </a>
   <a href="https://www.youtube.com/watch?v=6kjz9tGwY8I" target="_blank">
-    <img src="https://img.youtube.com/vi/6kjz9tGwY8I/mqdefault.jpg" width="280" alt="ViewModel Jetpack" />
+    <img src="https://img.youtube.com/vi/6kjz9tGwY8I/mqdefault.jpg" width="250" alt="ViewModel Jetpack" />
   </a>
 </p>
 
