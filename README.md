@@ -61,13 +61,32 @@
 
 ---
 
-##  Featured YouTube Videos
+## Featured YouTube Videos
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=nzOsJzD3svQ" target="_blank">
-    <img src="https://img.youtube.com/vi/nzOsJzD3svQ/maxresdefault.jpg" alt="SW Eng ع الرايق - Jetpack Compose Video" width="600"/>
+    <img src="https://img.youtube.com/vi/nzOsJzD3svQ/mqdefault.jpg" width="280" alt="Jetpack Compose Video" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=cflNZi4amLw" target="_blank">
+    <img src="https://img.youtube.com/vi/cflNZi4amLw/mqdefault.jpg" width="280" alt="POS Device Integration" />
   </a>
 </p>
+
+---
+
+## Explore Playlists
+
+- **Jetpack Compose Basics**  
+  [▶️ Watch Now](https://www.youtube.com/playlist?list=PLExON8teahsPpThvcP6rYEPbZvdsy5pTm)
+
+- **POS System Integration**  
+  [▶️ Watch Now](https://www.youtube.com/playlist?list=PLExON8teahsMhVk5JWPDKxCWVN0W9tn2P)
+
+- **Android Security & EMV Standards**  
+  [▶️ Watch Now](https://www.youtube.com/playlist?list=PLExON8teahsNrl2hPdM2VjIwUrpdvPOMc)
+
+- **Utilities & Card Reader Apps**  
+  [▶️ Watch Now](https://www.youtube.com/playlist?list=PLExON8teahsNAjyygQtiTP0p1RB5b1Dcp)
 
 ---
 
