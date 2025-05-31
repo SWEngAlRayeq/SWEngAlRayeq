@@ -64,7 +64,7 @@
 ##  Featured YouTube Videos
 
 <p align="center">
-  <a href="https://www.youtube.com/@sw_eng" target="_blank">
+  <a href="https://[www.youtube.com/@sw_eng](https://www.youtube.com/watch?v=nzOsJzD3svQ)" target="_blank">
     <img src="https://i.imgur.com/Rb8UuJk.png" alt="YouTube Banner" width="600"/>
   </a>
 </p>
