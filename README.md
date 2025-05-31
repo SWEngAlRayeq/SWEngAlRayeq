@@ -81,6 +81,15 @@
   <a href="https://www.youtube.com/watch?v=0Ns9ADzLhKc" target="_blank">
     <img src="https://img.youtube.com/vi/0Ns9ADzLhKc/mqdefault.jpg" width="280" alt="Compose & CardView" />
   </a>
+    <a href="https://www.youtube.com/watch?v=I44g1af1frM" target="_blank">
+    <img src="https://img.youtube.com/vi/I44g1af1frM/mqdefault.jpg" width="280" alt="Secure Card Integration" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=HrsrYm2jMm0" target="_blank">
+    <img src="https://img.youtube.com/vi/HrsrYm2jMm0/mqdefault.jpg" width="280" alt="Video Title 2" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=tmrHrZZgQ2U" target="_blank">
+    <img src="https://img.youtube.com/vi/tmrHrZZgQ2U/mqdefault.jpg" width="280" alt="Video Title 3" />
+  </a>
 </p>
 
 ---
