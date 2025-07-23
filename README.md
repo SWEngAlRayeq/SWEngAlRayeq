@@ -30,7 +30,7 @@ Specializing in fintech, utilities, e-commerce, and high-performance Android sys
 - Integrated with **Ahly Bank, VISA**, EMV & POS devices (PAX A920, Sunmi, etc).
 - Worked with **secure banking protocols**: ISO-7816 APDU, ISO-8583, AES, RSA.
 - CS Graduate – GPA **3.35**, Dean's Honor List.
-- 90+ projects showcased on GitHub.
+- +100 projects showcased on GitHub.
 
 ---
 
